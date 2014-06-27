@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<linksCollection xmlns="http://www.quadstoneparamics.com/acp/6.9.3">
+ <links>
+  <link name="1:2">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="2" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="2:1">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="2:5">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="2" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="3" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="3:5">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="3:4">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="2" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="3" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="4:3">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="2" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="3" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="5:2">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="5:3">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="2" headwayFactor="1.000" reactionFactor="1.000"/>
+    <lane number="3" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+ </links>
+</linksCollection>

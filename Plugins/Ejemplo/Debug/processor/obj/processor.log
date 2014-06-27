@@ -1,0 +1,13 @@
+﻿Build started 26-06-2014 20:07:27.
+     1>Project "C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\Ejemplo\processor.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching ".\Debug/processor/obj\processor.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"C:\Documents and Settings\All Users\Datos de programa\paramics\programmer\include" /I. /I..\..\include /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _WINDOWS /D _USRDLL /D PLUGIN_EXPORTS /D __i386__ /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug/processor/obj/" /Fd"Debug/processor/obj/vc100.pdb" /Gd /TC /analyze- /errorReport:prompt plugin.c
+         plugin.c
+     1>c:\users\juanpablo\documents\github\ruteo\plugins\ejemplo\plugin.c(12): fatal error C1083: Cannot open include file: 'programmer.h': No such file or directory
+     1>Done Building Project "C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\Ejemplo\processor.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.16

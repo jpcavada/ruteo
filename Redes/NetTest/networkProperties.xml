@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NetworkProperties>
+    <NetworkName>RoutingTestNet</NetworkName>
+    <Author>JuanPablo</Author>
+    <Description>Red base para probar los algoritmos de ruteo.</Description>
+    <CreationDate>mié 11. jun 12:04:27 2014</CreationDate>
+    <LastEditDate>mié 11. jun 13:04:45 2014</LastEditDate>
+    <LastEditUser>JuanPablo</LastEditUser>
+    <Welcome></Welcome>
+</NetworkProperties>

@@ -1,0 +1,12 @@
+## Author JuanPablo
+## Created Date miércoles-junio-11-2014 12-33-26
+## Modified Date miércoles-junio-11-2014 12-59-14
+## Modified By JuanPablo
+## Network C:\Ruteo\NetTest
+## Notes 
+Bounding Box -1210.0 m 500.0 m 1210.0 m 500.0 m
+node            1 at  -1100.00 m,    500.00 m,      0.00 m   junction 
+node            2 at  -1000.00 m,    500.00 m,      0.00 m   junction 
+node            3 at   1000.00 m,    500.00 m,      0.00 m   junction 
+node            4 at   1100.00 m,    500.00 m,      0.00 m   junction 
+node            5 at      0.00 m,    500.00 m,      0.00 m   junction 
