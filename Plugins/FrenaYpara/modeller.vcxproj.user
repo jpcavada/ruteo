@@ -4,7 +4,7 @@
     <LocalDebuggerCommand>C:\Program Files (x86)\paramicsv6\Modeller.exe</LocalDebuggerCommand>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>"C:\Ruteo\NetTest"</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>"C:\Users\JuanPablo\Documents\GitHub\ruteo\Redes\NetTest"</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>

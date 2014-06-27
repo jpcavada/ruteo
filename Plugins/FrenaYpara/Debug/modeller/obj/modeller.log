@@ -1,16 +1,12 @@
-﻿Build started 26-06-2014 20:14:28.
+﻿Build started 26-06-2014 20:23:26.
      1>Project "C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\FrenaYpara\modeller.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
-         Touching ".\Debug/modeller/obj\modeller.unsuccessfulbuild".
+         Creating ".\Debug/modeller/obj\modeller.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
          All outputs are up-to-date.
        Link:
-         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\DLL\base.dll" /INCREMENTAL:NO /NOLOGO simcore.lib modeller.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug/modeller/obj\base.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/modeller/bin/base.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug/modeller/bin/base.lib" /MACHINE:X86 /DLL .\Debug/modeller/obj/plugin.obj
-     1>plugin.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
-            Creating library .\Debug/modeller/bin/base.lib and object .\Debug/modeller/bin/base.exp
+         All outputs are up-to-date.
          modeller.vcxproj -> C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\FrenaYpara\.\DLL\base.dll
-       Manifest:
-         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\DLL\base.dll;#2" /manifest .\Debug/modeller/obj\base.dll.intermediate.manifest
        FinalizeBuildStatus:
          Deleting file ".\Debug/modeller/obj\modeller.unsuccessfulbuild".
          Touching ".\Debug/modeller/obj\modeller.lastbuildstate".
@@ -18,4 +14,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.52
+Time Elapsed 00:00:00.07
