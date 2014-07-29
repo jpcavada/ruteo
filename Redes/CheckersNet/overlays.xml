@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<overlays>
+    <overlay name="new overlay">
+        <image_file>C:\Users\JuanPablo\Desktop\Sin título.png</image_file>
+        <x_pos>893.579</x_pos>
+        <y_pos>282.664</y_pos>
+        <z_pos>0</z_pos>
+        <scale>5</scale>
+        <rotation>0</rotation>
+        <visible>true</visible>
+        <style>image</style>
+        <colour>16777215</colour>
+        <meshcolour>11776947</meshcolour>
+        <intensity>0.41</intensity>
+        <meshintensity>0.40</meshintensity>
+        <override>false</override>
+    </overlay>
+</overlays>

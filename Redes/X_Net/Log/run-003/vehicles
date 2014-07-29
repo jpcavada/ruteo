@@ -1,0 +1,7 @@
+vehicle types
+
+type 1 car 	
+	crawl speed 80.50 kph 
+	name "Car"
+	matrix 1 proportion 100.000 perturbation 0.0 familiarity 85.00
+

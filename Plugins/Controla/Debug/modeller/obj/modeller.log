@@ -1,0 +1,17 @@
+﻿Build started 28-07-2014 19:30:19.
+     1>Project "C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\Controla\modeller.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating ".\Debug/modeller/obj\modeller.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+         modeller.vcxproj -> C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\Controla\.\DLL\base.dll
+       FinalizeBuildStatus:
+         Deleting file ".\Debug/modeller/obj\modeller.unsuccessfulbuild".
+         Touching ".\Debug/modeller/obj\modeller.lastbuildstate".
+     1>Done Building Project "C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\Controla\modeller.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.08

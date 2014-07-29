@@ -1,8 +1,8 @@
 ## Author JuanPablo
 ## Created Date miércoles-junio-11-2014 12-33-26
-## Modified Date miércoles-junio-11-2014 12-59-15
+## Modified Date viernes-julio-25-2014 14-51-31
 ## Modified By JuanPablo
-## Network C:\Ruteo\NetTest
+## Network C:\Users\JuanPablo\Documents\GitHub\ruteo\Redes\NetTest
 ## Notes 
 link 1 2 category 2 
 link 2 1 category 1 
@@ -11,4 +11,8 @@ link 3 5 category 1
 link 3 4 category 3 
 link 4 3 category 1 
 link 5 2 category 1 
+link 5 6 category 1 
 link 5 3 category 3 
+link 6 5 category 1 
+link 6 7 category 1 
+link 7 6 category 1 

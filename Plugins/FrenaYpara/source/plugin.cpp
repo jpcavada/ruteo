@@ -115,11 +115,15 @@ float slowDownSpeed(LINK* link, VEHICLE* v)
 	// acceleration to apply to stop at this point
     acc  = qpg_CFM_constrainedAcceleration(v, link, 0.0, toStop);
 
+	//forzar a detenerce en la pista de mas a la derecha
+	qps_VHC_laneChange (v, -1);
+
+
 	// change in speed to apply to current speed 
     speed = MAX(0.5, speed + timeStep * acc);
     
 	// if at the stoping point mark the vehicle as stopped
-    if (toStop <= 0.5F || toStop < speed * timeStep)
+    if ((toStop <= 0.5F || toStop < speed * timeStep) )
     {
 		qps_VHC_stopped(v, PTRUE); 
 		speed = 0.0;

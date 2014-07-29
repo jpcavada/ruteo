@@ -1,0 +1,55 @@
+## Author JuanPablo
+## Created Date martes-julio-1-2014 18-21-42
+## Modified Date martes-julio-1-2014 18-29-15
+## Modified By JuanPablo
+## Network C:/Users/JuanPablo/Documents/GitHub/ruteo/Redes/X_Net
+## Notes 
+Bounding Box -1210.0 m -247.4 m 1210.0 m 560.3 m
+node			9	at	-1500.00 m,	500.00	m,	0.00	m	junction
+node			17	at	-1500.00 m,	0.00	m,	0.00	m	junction
+node			25	at	-1500.00 m,	-500.00	m,	0.00	m	junction
+node			33	at	-1500.00 m,	-1000.00	m,	0.00	m	junction
+node			10	at	-1000.00 m,	500.00	m,	0.00	m	junction
+node			18	at	-1000.00 m,	0.00	m,	0.00	m	junction
+node			26	at	-1000.00 m,	-500.00	m,	0.00	m	junction
+node			34	at	-1000.00 m,	-1000.00	m,	0.00	m	junction
+node			1	at	-500.00	m,	1500.00	m,	0.00	m	junction
+node			5	at	-500.00	m,	1000.00	m,	0.00	m	junction
+node			11	at	-500.00	m,	500.00	m,	0.00	m	junction
+node			19	at	-500.00	m,	0.00	m,	0.00	m	junction
+node			27	at	-500.00	m,	-500.00	m,	0.00	m	junction
+node			35	at	-500.00	m,	-1000.00	m,	0.00	m	junction
+node			41	at	-500.00	m,	-1500.00	m,	0.00	m	junction
+node			45	at	-500.00	m,	-2000.00	m,	0.00	m	junction
+node			2	at	0.00	m,	1500.00	m,	0.00	m	junction
+node			6	at	0.00	m,	1000.00	m,	0.00	m	junction
+node			12	at	0.00	m,	500.00	m,	0.00	m	junction
+node			20	at	0.00	m,	0.00	m,	0.00	m	junction
+node			28	at	0.00	m,	-500.00	m,	0.00	m	junction
+node			36	at	0.00	m,	-1000.00	m,	0.00	m	junction
+node			42	at	0.00	m,	-1500.00	m,	0.00	m	junction
+node			46	at	0.00	m,	-2000.00	m,	0.00	m	junction
+node			3	at	500.00	m,	1500.00	m,	0.00	m	junction
+node			7	at	500.00	m,	1000.00	m,	0.00	m	junction
+node			13	at	500.00	m,	500.00	m,	0.00	m	junction
+node			21	at	500.00	m,	0.00	m,	0.00	m	junction
+node			29	at	500.00	m,	-500.00	m,	0.00	m	junction
+node			37	at	500.00	m,	-1000.00	m,	0.00	m	junction
+node			43	at	500.00	m,	-1500.00	m,	0.00	m	junction
+node			4	at	1000.00	m,	1500.00	m,	0.00	m	junction
+node			8	at	1000.00	m,	1000.00	m,	0.00	m	junction
+node			14	at	1000.00	m,	500.00	m,	0.00	m	junction
+node			22	at	1000.00	m,	0.00	m,	0.00	m	junction
+node			30	at	1000.00	m,	-500.00	m,	0.00	m	junction
+node			38	at	1000.00	m,	-1000.00	m,	0.00	m	junction
+node			44	at	1000.00	m,	-1500.00	m,	0.00	m	junction
+node			15	at	1500.00	m,	500.00	m,	0.00	m	junction
+node			23	at	1500.00	m,	0.00	m,	0.00	m	junction
+node			31	at	1500.00	m,	-500.00	m,	0.00	m	junction
+node			39	at	1500.00	m,	-1000.00	m,	0.00	m	junction
+node			16	at	2000.00	m,	500.00	m,	0.00	m	junction
+node			24	at	2000.00	m,	0.00	m,	0.00	m	junction
+node			32	at	2000.00	m,	-500.00	m,	0.00	m	junction
+node			40	at	2000.00	m,	-1000.00	m,	0.00	m	junction
+node			47	at	500.00	m,	-2000.00	m,	0.00	m	junction
+node			48	at	1000.00	m,	-2000.00	m,	0.00	m	junction

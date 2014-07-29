@@ -1,0 +1,32 @@
+## Author JuanPablo
+## Created Date miércoles-julio-23-2014 15-50-38
+## Modified Date mié 23. jul 17:15:45 2014
+## Modified By JuanPablo
+## Network C:/Users/JuanPablo/Documents/GitHub/ruteo/Redes/CheckersNet
+## Notes 
+demand period 1
+matrix count 1
+divisor 1.00
+
+
+matrix 1
+from    1    0    5    5    5    5    5    5    5    5    5    5    5    5    5    5    5  ## 75
+from    2    5    0    5    5    5    5    5    5    5    5    5    5    5    5    5    5  ## 75
+from    3    5    5    0    5    5    5    5    5    5    5    5    5    5    5    5    5  ## 75
+from    4    5    5    5    0    5    5    5    5    5    5    5    5    5    5    5    5  ## 75
+from    5    5    5    5    5    0    5    5    5    5    5    5    5    5    5    5    5  ## 75
+from    6    5    5    5    5    5    0    5    5    5    5    5    5    5    5    5    5  ## 75
+from    7    5    5    5    5    5    5    0    5    5    5    5    5    5    5    5    5  ## 75
+from    8    5    5    5    5    5    5    5    0    5    5    5    5    5    5    5    5  ## 75
+from    9    5    5    5    5    5    5    5    5    0    5    5    5    5    5    5    5  ## 75
+from   10    5    5    5    5    5    5    5    5    5    0    5    5    5    5    5    5  ## 75
+from   11    5    5    5    5    5    5    5    5    5    5    0    5    5    5    5    5  ## 75
+from   12    5    5    5    5    5    5    5    5    5    5    5    0    5    5    5    5  ## 75
+from   13    5    5    5    5    5    5    5    5    5    5    5    5    0    5    5    5  ## 75
+from   14    5    5    5    5    5    5    5    5    5    5    5    5    5    0    5    5  ## 75
+from   15    5    5    5    5    5    5    5    5    5    5    5    5    5    5    0    5  ## 75
+from   16    5    5    5    5    5    5    5    5    5    5    5    5    5    5    5    0  ## 75
+
+## total    75   75   75   75   75   75   75   75   75   75   75   75   75   75   75   75  ## 1200
+
+

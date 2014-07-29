@@ -1,6 +1,11 @@
 ## Author JuanPablo
 ## Created Date miércoles-junio-11-2014 12-33-27
-## Modified Date miércoles-junio-11-2014 12-59-15
+## Modified Date viernes-julio-25-2014 14-51-31
 ## Modified By JuanPablo
-## Network C:\Ruteo\NetTest
+## Network C:\Users\JuanPablo\Documents\GitHub\ruteo\Redes\NetTest
 ## Notes 
+
+actions 5
+from 3 to 6 medium 
+from 6 to 2 minor 
+from 6 to 3 minor 

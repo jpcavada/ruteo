@@ -1,0 +1,32 @@
+## Author JuanPablo
+## Created Date miércoles-julio-23-2014 15-50-38
+## Modified Date mié 23. jul 17:15:45 2014
+## Modified By JuanPablo
+## Network C:/Users/JuanPablo/Documents/GitHub/ruteo/Redes/CheckersNet
+## Notes 
+demand period 1
+matrix count 1
+divisor 1.00
+
+
+matrix 1
+from    1    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from    2    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from    3    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from    4    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from    5    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from    6    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    1  ## 0
+from    7    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from    8    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from    9    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from   10    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from   11    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from   12    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from   13    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from   14    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from   10    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+from   16    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0    0  ## 0
+
+## total    0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0  ## 0
+
+

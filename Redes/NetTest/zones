@@ -1,10 +1,10 @@
 ## Author JuanPablo
 ## Created Date miércoles-junio-11-2014 12-33-27
-## Modified Date miércoles-junio-11-2014 12-59-15
+## Modified Date viernes-julio-25-2014 14-51-31
 ## Modified By JuanPablo
-## Network C:\Ruteo\NetTest
+## Network C:\Users\JuanPablo\Documents\GitHub\ruteo\Redes\NetTest
 ## Notes 
-Zone Count 2
+Zone Count 3
 
 zone 1 4 
 -1200 m 450 m
@@ -23,3 +23,12 @@ zone 2 4
 max 1200 m 550 m
 min 1000 m 450 m
 centroid 1100 m 500 m
+
+zone 3 4 
+4 m -212 m
+-5 m -212 m
+-5 m 7 m
+4 m 7 m
+max 4 m 7 m
+min -5 m -212 m
+centroid -0 m -102 m

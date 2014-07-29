@@ -1,0 +1,18 @@
+## Author JuanPablo
+## Created Date martes-julio-1-2014 18-21-42
+## Modified Date martes-julio-1-2014 18-29-15
+## Modified By JuanPablo
+## Network C:/Users/JuanPablo/Documents/GitHub/ruteo/Redes/X_Net
+## Notes 
+link 1 2 category 1 
+link 2 1 category 1 
+link 2 5 category 2 
+link 3 5 category 2 
+link 3 4 category 1 
+link 4 3 category 1 
+link 7 6 category 2 
+link 5 2 category 2 
+link 5 6 category 2 
+link 5 3 category 2 
+link 6 7 category 2 
+link 6 5 category 2 

@@ -1,0 +1,151 @@
+## Author JuanPablo
+## Created Date miércoles-julio-23-2014 17-06-45
+## Modified Date miércoles-julio-23-2014 17-06-45
+## Modified By JuanPablo
+## Network C:/Users/JuanPablo/Documents/GitHub/ruteo/Redes/CheckersNet
+## Notes 
+Zone Count 16
+
+zone 1 4 
+-496 m 994 m
+-504 m 994 m
+-504 m 1510 m
+-496 m 1510 m
+max -496 m 1510 m
+min -504 m 994 m
+centroid -500 m 1252 m
+
+zone 2 4 
+4 m 994 m
+-4 m 994 m
+-4 m 1510 m
+4 m 1510 m
+max 4 m 1510 m
+min -4 m 994 m
+centroid 0 m 1252 m
+
+zone 3 4 
+504 m 994 m
+496 m 994 m
+496 m 1510 m
+504 m 1510 m
+max 504 m 1510 m
+min 496 m 994 m
+centroid 500 m 1252 m
+
+zone 4 4 
+1004 m 994 m
+996 m 994 m
+996 m 1510 m
+1004 m 1510 m
+max 1004 m 1510 m
+min 996 m 994 m
+centroid 1000 m 1252 m
+
+zone 5 4 
+-994 m 496 m
+-1510 m 496 m
+-1510 m 504 m
+-994 m 504 m
+max -994 m 504 m
+min -1510 m 496 m
+centroid -1252 m 500 m
+
+zone 6 4 
+-994 m -4 m
+-1510 m -4 m
+-1510 m 4 m
+-994 m 4 m
+max -994 m 4 m
+min -1510 m -4 m
+centroid -1252 m 0 m
+
+zone 7 4 
+-994 m -504 m
+-1510 m -504 m
+-1510 m -496 m
+-994 m -496 m
+max -994 m -496 m
+min -1510 m -504 m
+centroid -1252 m -500 m
+
+zone 8 4 
+-994 m -1004 m
+-1510 m -1004 m
+-1510 m -996 m
+-994 m -996 m
+max -994 m -996 m
+min -1510 m -1004 m
+centroid -1252 m -1000 m
+
+zone 9 4 
+-496 m -2010 m
+-504 m -2010 m
+-504 m -1494 m
+-496 m -1494 m
+max -496 m -1494 m
+min -504 m -2010 m
+centroid -500 m -1752 m
+
+zone 10 4 
+4 m -2010 m
+-4 m -2010 m
+-4 m -1494 m
+4 m -1494 m
+max 4 m -1494 m
+min -4 m -2010 m
+centroid 0 m -1752 m
+
+zone 11 4 
+504 m -2010 m
+496 m -2010 m
+496 m -1494 m
+504 m -1494 m
+max 504 m -1494 m
+min 496 m -2010 m
+centroid 500 m -1752 m
+
+zone 12 4 
+1004 m -2010 m
+996 m -2010 m
+996 m -1494 m
+1004 m -1494 m
+max 1004 m -1494 m
+min 996 m -2010 m
+centroid 1000 m -1752 m
+
+zone 13 4 
+2010 m -1004 m
+1494 m -1004 m
+1494 m -996 m
+2010 m -996 m
+max 2010 m -996 m
+min 1494 m -1004 m
+centroid 1752 m -1000 m
+
+zone 14 4 
+2010 m -504 m
+1494 m -504 m
+1494 m -496 m
+2010 m -496 m
+max 2010 m -496 m
+min 1494 m -504 m
+centroid 1752 m -500 m
+
+zone 15 4 
+2010 m -4 m
+1494 m -4 m
+1494 m 4 m
+2010 m 4 m
+max 2010 m 4 m
+min 1494 m -4 m
+centroid 1752 m 0 m
+
+zone 16 4 
+2010 m 496 m
+1494 m 496 m
+1494 m 504 m
+2010 m 504 m
+max 2010 m 504 m
+min 1494 m 496 m
+centroid 1752 m 500 m

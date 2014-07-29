@@ -1,12 +1,22 @@
-﻿Build started 26-06-2014 20:23:26.
+﻿Build started 01-07-2014 17:01:25.
      1>Project "C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\FrenaYpara\modeller.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
-         Creating ".\Debug/modeller/obj\modeller.unsuccessfulbuild" because "AlwaysCreate" was specified.
+         Touching ".\Debug/modeller/obj\modeller.unsuccessfulbuild".
        ClCompile:
-         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /IC:\Users\Public\paramics\programmer\lib /IC:\Users\Public\paramics\programmer\include /ZI /nologo /W3 /WX- /Od /Oy- /D _DEBUG /D WIN32 /D _WINDOWS /D _USRDLL /D PLUGIN_EXPORTS /D __i386__ /D MODELLER_BUILD /D _VC80_UPGRADE=0x0600 /D _WINDLL /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo".\Debug/modeller/obj/" /Fd".\Debug/modeller/obj/vc100.pdb" /Gd /TP /analyze- /errorReport:prompt source\plugin.cpp
+         plugin.cpp
+     1>c:\users\juanpablo\documents\github\ruteo\plugins\frenaypara\source\plugin.cpp(27): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\juanpablo\documents\github\ruteo\plugins\frenaypara\source\plugin.cpp(73): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\juanpablo\documents\github\ruteo\plugins\frenaypara\source\plugin.cpp(109): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\users\juanpablo\documents\github\ruteo\plugins\frenaypara\source\plugin.cpp(123): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
        Link:
-         All outputs are up-to-date.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:".\DLL\base.dll" /INCREMENTAL:NO /NOLOGO simcore.lib modeller.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:".\Debug/modeller/obj\base.dll.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:".\Debug/modeller/bin/base.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:".\Debug/modeller/bin/base.lib" /MACHINE:X86 /DLL .\Debug/modeller/obj/frenado.obj
+         .\Debug/modeller/obj/plugin.obj
+     1>frenado.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+            Creating library .\Debug/modeller/bin/base.lib and object .\Debug/modeller/bin/base.exp
          modeller.vcxproj -> C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\FrenaYpara\.\DLL\base.dll
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:".\DLL\base.dll;#2" /manifest .\Debug/modeller/obj\base.dll.intermediate.manifest
        FinalizeBuildStatus:
          Deleting file ".\Debug/modeller/obj\modeller.unsuccessfulbuild".
          Touching ".\Debug/modeller/obj\modeller.lastbuildstate".
@@ -14,4 +24,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.07
+Time Elapsed 00:00:01.32

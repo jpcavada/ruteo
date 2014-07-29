@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MarkingRules>
+    <Rule>
+        <Name>New Rule</Name>
+        <Colour>16711935</Colour>
+        <Annotate>false</Annotate>
+        <Log>false</Log>
+        <Enable>false</Enable>
+        <Isolate>false</Isolate>
+        <DriverType>2</DriverType>
+        <MatchAll>false</MatchAll>
+        <VehicleTypes>1</VehicleTypes>
+    </Rule>
+    <Rule>
+        <Name>LGV (8 -&gt; 9)</Name>
+        <Colour>65280</Colour>
+        <Annotate>false</Annotate>
+        <Log>false</Log>
+        <Enable>true</Enable>
+        <Isolate>false</Isolate>
+        <DriverType>2</DriverType>
+        <MatchAll>false</MatchAll>
+        <OZones>Zone 008</OZones>
+        <DZones>Zone 009</DZones>
+        <VehicleTypes>11</VehicleTypes>
+    </Rule>
+</MarkingRules>

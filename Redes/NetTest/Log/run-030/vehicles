@@ -1,0 +1,12 @@
+vehicle types
+
+type 1 car 	
+	crawl speed 80.50 kph colour 0x00ff5500 
+	name "ControlCar"
+	matrix 1 proportion 10.000 perturbation 0.0 familiarity 85.00
+
+type 2 car 	
+	colour 0x00dbdbdb 
+	name "Car"
+	matrix 1 proportion 90.000 perturbation 0.0 familiarity 85.00
+

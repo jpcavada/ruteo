@@ -34,11 +34,14 @@
   <link name="4:3">
    <lanes>
     <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
-    <lane number="2" headwayFactor="1.000" reactionFactor="1.000"/>
-    <lane number="3" headwayFactor="1.000" reactionFactor="1.000"/>
    </lanes>
   </link>
   <link name="5:2">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="5:6">
    <lanes>
     <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
    </lanes>
@@ -48,6 +51,21 @@
     <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
     <lane number="2" headwayFactor="1.000" reactionFactor="1.000"/>
     <lane number="3" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="6:7">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="6:5">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
+   </lanes>
+  </link>
+  <link name="7:6">
+   <lanes>
+    <lane number="1" headwayFactor="1.000" reactionFactor="1.000"/>
    </lanes>
   </link>
  </links>
