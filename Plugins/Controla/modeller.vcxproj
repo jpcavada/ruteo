@@ -141,9 +141,11 @@
     <ClCompile Include="source\plugin.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="network.h" />
     <ClInclude Include="source\manualVHC.h" />
     <ClInclude Include="source\manualVHC_list.h" />
     <ClInclude Include="source\Route.h" />
+    <ClInclude Include="source\RouteStop.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

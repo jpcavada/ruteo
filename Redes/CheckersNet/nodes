@@ -1,8 +1,8 @@
 ## Author JuanPablo
 ## Created Date martes-julio-1-2014 18-21-42
-## Modified Date miércoles-julio-23-2014 17-06-45
+## Modified Date miércoles-julio-30-2014 14-15-19
 ## Modified By JuanPablo
-## Network C:/Users/JuanPablo/Documents/GitHub/ruteo/Redes/CheckersNet
+## Network C:\Users\JuanPablo\Documents\GitHub\ruteo\Redes\CheckersNet
 ## Notes 
 Bounding Box -1675.0 m -2175.0 m 2175.0 m 1675.0 m
 node            9 at  -1500.00 m,    500.00 m,      0.00 m   junction 
@@ -53,3 +53,4 @@ node           32 at   2000.00 m,   -500.00 m,      0.00 m   junction
 node           40 at   2000.00 m,  -1000.00 m,      0.00 m   junction 
 node           47 at    500.00 m,  -2000.00 m,      0.00 m   junction 
 node           48 at   1000.00 m,  -2000.00 m,      0.00 m   junction 
+node           49 at    250.00 m,      0.00 m,      0.00 m   junction 

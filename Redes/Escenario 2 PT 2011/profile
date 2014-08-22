@@ -1,0 +1,27 @@
+## Author Victor
+## Created Date mar 16. mar 15:23:16 2010
+## Modified Date mar 16. mar 15:23:36 2010
+## Modified By Victor
+## Network C:\Users\Victor\Documents\CI69F - Trabajo de Titulo\Paramics\Escenario 2 - Situacion Actual
+## Notes 
+
+## sample flat profile, flat distribution for even release rates across all intervals
+## number of interval blocks per period = period duration / interval
+## release 100% of traffic, use divisor to scale up values to maintain precision
+## block value per period  = 100*Divisor / number of interval blocks
+## sum of block values must equal 100*Divisor so last block may be adjusted due to rounding
+
+Demand profile
+Profile count 1
+
+##
+## Profile 1
+## Only this profile can define period count and interval
+##
+Profile 1
+Period count 1
+Interval 6
+Divisor 1
+period 1 start 07:30:00
+10 10 10 10 10 10 10 10 10 10 
+

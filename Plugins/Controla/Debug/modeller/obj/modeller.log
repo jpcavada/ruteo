@@ -1,4 +1,4 @@
-﻿Build started 28-07-2014 19:30:19.
+﻿Build started 20-08-2014 13:37:38.
      1>Project "C:\Users\JuanPablo\Documents\GitHub\ruteo\Plugins\Controla\modeller.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating ".\Debug/modeller/obj\modeller.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -14,4 +14,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.08
+Time Elapsed 00:00:00.07

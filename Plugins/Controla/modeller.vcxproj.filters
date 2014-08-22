@@ -27,5 +27,11 @@
     <ClInclude Include="source\Route.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="source\RouteStop.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="network.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

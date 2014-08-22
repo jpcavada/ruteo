@@ -32,7 +32,6 @@
 				return ret;
 			}
 		}
-		return NULL;
+		return 0;
 	}
-	
 	
